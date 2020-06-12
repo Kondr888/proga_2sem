@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/s/Desktop/untitled1/header.h
+
+/Users/s/Desktop/untitled1/main.cpp
+iostream
+-
+vector
+-
+set
+-
+header.h
+/Users/s/Desktop/untitled1/header.h
+
