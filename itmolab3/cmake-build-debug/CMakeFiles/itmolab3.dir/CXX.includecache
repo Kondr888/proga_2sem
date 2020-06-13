@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksejkondratuk/CLionProjects/itmolab3/triangle.cpp
+triangle.h
+/Users/aleksejkondratuk/CLionProjects/itmolab3/triangle.h
+
