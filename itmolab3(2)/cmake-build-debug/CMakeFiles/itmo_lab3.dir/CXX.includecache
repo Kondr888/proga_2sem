@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aleksejkondratuk/CLionProjects/itmo_lab3/Complex.h
+
+/Users/aleksejkondratuk/CLionProjects/itmo_lab3/main.cpp
+iostream
+-
+Complex.h
+/Users/aleksejkondratuk/CLionProjects/itmo_lab3/Complex.h
+set.h
+/Users/aleksejkondratuk/CLionProjects/itmo_lab3/set.h
+
+/Users/aleksejkondratuk/CLionProjects/itmo_lab3/set.h
+
